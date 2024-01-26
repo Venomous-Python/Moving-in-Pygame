@@ -1,3 +1,4 @@
+
 import pygame (All of this until line 10 is just setting up the screen and making everything run)
 
 pygame.init()
