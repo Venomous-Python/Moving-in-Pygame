@@ -1,5 +1,6 @@
+Please Note: I learned this before from Coding with Russ!
 
-import pygame (All of this until line 10 is just setting up the screen and making everything run)
+import pygame (All of this until line 12 is just setting up the screen and making everything run)
 
 pygame.init()
 
